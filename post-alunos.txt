@@ -1,0 +1,44 @@
+{
+    "nome": "Marília Araújo",
+    "cpf": "123.1456.789-10",
+    "matricula": 20209023,
+    "genero": "FEMININO",
+    "curso": "Ser Amada",
+    "dataNascimento": "25/05/2004"
+}
+
+{
+    "nome": "João Silva",
+    "cpf": "234.5678.910-11",
+    "matricula": 20209124,
+    "genero": "MASCULINO",
+    "curso": "Engenharia Civil",
+    "dataNascimento": "15/03/2002"
+}
+
+{
+    "nome": "Ana Pereira",
+    "cpf": "345.6789.101-12",
+    "matricula": 20209234,
+    "genero": "FEMININO",
+    "curso": "Medicina",
+    "dataNascimento": "10/11/2001"
+}
+
+{
+    "nome": "Carlos Mendes",
+    "cpf": "456.7890.112-13",
+    "matricula": 20209345,
+    "genero": "MASCULINO",
+    "curso": "Direito",
+    "dataNascimento": "22/06/2000"
+}
+
+{
+    "nome": "Beatriz Costa",
+    "cpf": "567.8901.123-14",
+    "matricula": 20209456,
+    "genero": "FEMININO",
+    "curso": "Arquitetura",
+    "dataNascimento": "30/09/2003"
+}

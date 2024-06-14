@@ -1,0 +1,56 @@
+{
+    "nome": "Marcos Silva",
+    "cpf": "111.222.333-44",
+    "matricula": 987654,
+    "genero": "MASCULINO",
+    "departamento": "Computação",
+    "dataNascimento": "10/01/1975",
+    "salario": 8500.00,
+    "disciplinaAssociada": "Nenhuma disciplina",
+}
+
+{
+    "nome": "Ana Souza",
+    "cpf": "555.666.777-88",
+    "matricula": 876543,
+    "genero": "FEMININO",
+    "departamento": "Computação",
+    "dataNascimento": "20/02/1980",
+    "salario": 9000.00,
+    "disciplinaAssociada": "Nenhuma disciplina",
+}
+
+{
+    "nome": "Carlos Oliveira",
+    "cpf": "999.000.111-22",
+    "matricula": 765432,
+    "genero": "MASCULINO",
+    "departamento": "Computação",
+    "dataNascimento": "15/03/1985",
+    "salario": 9200.00,
+    "disciplinaAssociada": "Nenhuma disciplina",
+    "ativo": true
+}
+
+{
+    "nome": "Beatriz Lima",
+    "cpf": "333.444.555-66",
+    "matricula": 654321,
+    "genero": "FEMININO",
+    "departamento": "Computação",
+    "dataNascimento": "25/04/1990",
+    "salario": 8700.00,
+    "disciplinaAssociada": "Nenhuma disciplina",
+    "ativo": true
+}
+
+{
+    "nome": "Daniela Alves",
+    "cpf": "777.888.999-00",
+    "matricula": 543210,
+    "genero": "FEMININO",
+    "departamento": "Computação",
+    "dataNascimento": "30/05/1995",
+    "salario": 8800.00,
+    "disciplinaAssociada": "Nenhuma disciplina",
+}

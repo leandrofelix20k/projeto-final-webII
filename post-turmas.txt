@@ -1,0 +1,29 @@
+{
+    "id": 0
+    "nome": "Banco de Dados",
+    "codigo": "TURMA_BD001"
+}
+
+{
+    "id": 0
+    "nome": "Engenharia de Software",
+    "codigo": "TURMA_ES001"
+}
+
+{
+    "id": 0
+    "nome": "Inteligência Artificial",
+    "codigo": "TURMA_IA001"
+}
+
+{
+    "id": 0
+    "nome": "Sistemas Distribuídos",
+    "codigo": "TURMA_SD001"
+}
+
+{
+    "id": 0
+    "nome": "Redes de Computadores",
+    "codigo": "TURMA_RC001"
+}
