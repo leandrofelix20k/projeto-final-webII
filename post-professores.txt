@@ -6,7 +6,7 @@
     "departamento": "Computação",
     "dataNascimento": "10/01/1975",
     "salario": 8500.00,
-    "disciplinaAssociada": "Nenhuma disciplina",
+    "disciplinaAssociada": "Nenhuma disciplina"
 }
 
 {
@@ -17,7 +17,7 @@
     "departamento": "Computação",
     "dataNascimento": "20/02/1980",
     "salario": 9000.00,
-    "disciplinaAssociada": "Nenhuma disciplina",
+    "disciplinaAssociada": "Nenhuma disciplina"
 }
 
 {
@@ -28,7 +28,7 @@
     "departamento": "Computação",
     "dataNascimento": "15/03/1985",
     "salario": 9200.00,
-    "disciplinaAssociada": "Nenhuma disciplina",
+    "disciplinaAssociada": "Nenhuma disciplina"
     "ativo": true
 }
 
@@ -40,7 +40,7 @@
     "departamento": "Computação",
     "dataNascimento": "25/04/1990",
     "salario": 8700.00,
-    "disciplinaAssociada": "Nenhuma disciplina",
+    "disciplinaAssociada": "Nenhuma disciplina"
     "ativo": true
 }
 
@@ -52,5 +52,5 @@
     "departamento": "Computação",
     "dataNascimento": "30/05/1995",
     "salario": 8800.00,
-    "disciplinaAssociada": "Nenhuma disciplina",
+    "disciplinaAssociada": "Nenhuma disciplina"
 }
