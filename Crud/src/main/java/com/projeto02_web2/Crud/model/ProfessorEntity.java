@@ -3,6 +3,7 @@ package com.projeto02_web2.Crud.model;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.projeto02_web2.Crud.DTO.ProfessorDTO;
+import com.projeto02_web2.Crud.enums.Genero;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -27,7 +28,7 @@ public class ProfessorEntity {
     private String nome;
     private String cpf;
     private int matricula;
-    private String genero;
+    private Genero genero;
     private String departamento;
     private String dataNascimento;
     private float salario;

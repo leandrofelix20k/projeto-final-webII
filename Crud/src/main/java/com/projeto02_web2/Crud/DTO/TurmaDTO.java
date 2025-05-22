@@ -9,7 +9,6 @@ import java.util.List;
 
 public record TurmaDTO (
 
-        @NotNull
         Long id,
         @NotBlank(message = "Nome é obrigatório")
         String nome,

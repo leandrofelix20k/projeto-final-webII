@@ -2,6 +2,7 @@ package com.projeto02_web2.Crud.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.projeto02_web2.Crud.DTO.AlunoDTO;
+import com.projeto02_web2.Crud.enums.Genero;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -24,7 +25,7 @@ public class AlunoEntity {
     private String nome;
     private String cpf;
     private int matricula;
-    private String genero;
+    private Genero genero;
     private String curso;
     private String dataNascimento;
     private boolean ativo;

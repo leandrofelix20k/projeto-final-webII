@@ -25,6 +25,12 @@ public class TurmaEntity {
     private String codigo;
     private boolean ativo;
 
+    TurmaEntity (String nome, String codigo, boolean ativo){
+        this.nome = nome;
+        this.codigo = codigo;
+        this.ativo = ativo;
+    }
+
     @ManyToMany
     @JoinTable(
             name = "turma_aluno",
